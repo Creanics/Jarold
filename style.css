@@ -1,0 +1,15 @@
+/*
+Theme Name: Jarold
+Author URI: https://www.cyprien-siaud.fr/theme/jarold
+Author: Cyprien Siaud
+Author URI: https://www.cyprien-siaud.fr
+Description: [décrivez ici votre thème en quelques mots]
+Version: 1.0
+*/
+
+body {
+    background: #FFFFFF;
+    font-family: "Source Sans Pro";
+    color: #4b5157;
+    margin: 0 auto;
+}
